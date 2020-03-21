@@ -48,5 +48,6 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 How Bad Is It](https://faizalazman.github.io/) ([repo](https://github.com/faizalazman/faizalazman.github.io)): Live graphs with latest news involving Covid-19,
 - [epidemic-simulator](https://github.com/RemiTheWarrior/epidemic-simulator): Mathematical model using Macroscopic Rate Equations for simulating the future of the epidemic
 - [COVID-19 Sri Lanka Tracker](https://covid-19-sl.netlify.com/) ([repo](https://github.com/dhanushkac/covid-19-sl-tracker)): Live Updates of COVID-19 Patients in Sri Lanka
+- Secure Notes (https://play.google.com/store/apps/details?id=com.angs.secure) : Simple mobile friendly dashborad, latest stats of the COVID-19 outbreak.
 
 [+ Add yours](https://github.com/pomber/covid19/edit/master/readme.md)
